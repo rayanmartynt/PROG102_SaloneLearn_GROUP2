@@ -1,4 +1,4 @@
-# SDG 4 Quality Education - E-Learning Mobile App
+# SDG 4 Quality Education - SaloneLearn E-Learning Mobile App
 
 ## 📱 Project Overview
 
