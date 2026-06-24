@@ -127,9 +127,9 @@ This application directly supports SDG 4 targets by:
 
 ## 👥 Team
 
-**Rayan Martin Turay**
-**Abdul Karim Koroma**
-**Foday Kamara**
+- **Rayan Martin Turay**
+- **Abdul Karim Koroma**
+- **Foday Kamara**
 
 ---
 
