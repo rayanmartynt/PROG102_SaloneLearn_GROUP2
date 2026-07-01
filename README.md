@@ -4,7 +4,6 @@
 
 This project is a mobile application prototype designed to support **Sustainable Development Goal 4 (SDG 4): Quality Education**. The application aims to provide learners with easy access to educational resources, personalized learning paths, and user-friendly learning tools. This prototype was developed using **Figma** as part of a software engineering project following the Software Development Life Cycle (SDLC).
 
----
 
 ## 🎯 Purpose
 
