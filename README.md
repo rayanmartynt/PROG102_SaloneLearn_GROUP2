@@ -36,7 +36,6 @@ The application addresses the United Nations' SDG 4 goal to "ensure inclusive an
 - **Reliability**: Maintains high system uptime
 - **Accessibility**: Text meets accessibility standards
 
----
 
 ## 🏗️ System Architecture
 
